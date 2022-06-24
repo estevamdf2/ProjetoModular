@@ -37,3 +37,13 @@ Arquivos visualizados:
 Na fonte de referência está no item **Add git submodule**
 
 - Commitando o submodule
+
+![texto](/src/imagens/3-commit-submodule.png "Submodule commit")
+
+# Visão do projeto
+
+Está e a visão do projeto após os procedimentos.
+
+Acredito que nos ajudara a dar sequência nos estudos.
+
+![texto](/src/imagens/4-visao-modulo.png "visão projeto")
